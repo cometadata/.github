@@ -7,7 +7,7 @@ The Collaborative Metadata Enrichment Taskforce (COMET) is a community-led initi
 
 COMET is piloting 8 enrichment and curation workflows. See the [Pilot Projects Overview Board](https://github.com/orgs/cometadata/projects/14) for a description of each project and its current status or visit the project repos: 
 
-1. [ArXiv Preprint Matching](https://github.com/cometadata/arxiv-preprint-matching)
+1. [arXiv Preprint Matching](https://github.com/cometadata/arxiv-preprint-matching)
 2. [Improve Generic Resource Type Classification](https://github.com/cometadata/improve-generic-resource-type-classifications)
 3. [Add or improve titles for records with no titles or generic titles](https://github.com/cometadata/add-or-improve-titles-for-records-with-no-or-generic-titles)
 4. [Reconcile PKP Beacon Journals with OpenAlex Affiliation Metadata](https://github.com/cometadata/reconcile-pkp-beacon-journals-w-openalex-affiliation-metadata)
