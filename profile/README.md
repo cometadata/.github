@@ -13,7 +13,7 @@ COMET is piloting 8 enrichment and curation workflows. See the [Pilot Projects O
 4. [Reconcile PKP Beacon Journals with OpenAlex Affiliation Metadata](https://github.com/cometadata/reconcile-pkp-beacon-journals-w-openalex-affiliation-metadata)
 5. [Improve ETD PDF Affiliation Parsing](https://github.com/cometadata/improve-etd-pdf-affiliation-parsing)
 6. [Reconcile curation in CRIS systems](https://github.com/cometadata/reconcile-curation-in-cris-systems)
-7. [arXiv Preprint Parsing and OpenAlex Parsing Assessment](https://github.com/cometadata/arxiv-preprint-parsing)
+7. [arXiv Preprint Parsing](https://github.com/cometadata/arxiv-preprint-parsing)
 8. [Funding Metadata Enrichment](https://github.com/cometadata/funding-metadata-enrichment) 
 
 ## Getting Involved 
