@@ -18,4 +18,4 @@ COMET is piloting 8 enrichment and curation workflows. See the [Pilot Projects O
 
 ## Getting Involved 
 
-COMET is in the process of setting up a Github space for ideas and feedback from the COMET community. In the meantime, please open an issue in the relevant repo listed above or contact COMET's Project Lead, Dione Mentis, at [dione.mentis@datacite.org](mailto:dione.mentis@datacite.org)
+Submit your ideas and feedback at [Cometadata Suggestions](https://github.com/cometadata/cometadata-suggestions). Alternatively, contact COMET's Project Lead, Dione Mentis, at [dione.mentis@datacite.org](mailto:dione.mentis@datacite.org)
