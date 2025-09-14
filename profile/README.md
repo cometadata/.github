@@ -1,15 +1,15 @@
 # COMET
 
 ## Overview
-The Collaborative Metadata Enrichment Taskforce (COMET) is a community-led inititive. COMET is designed to actively enhance the completeness, consistency, and interoperability of metadata across the PID ecosystem through proven models for community curation and enrichment. COMET is built through collaboration, and is designed to be sustained through community curation, adding to existing efforts to democratize PID infrastructure. For more information visit [cometadata.org](https://www.cometadata.org/). 
+
+Collaborative Metadata (COMET) is a community-led inititive. COMET's goal is to enhance the completeness, consistency, and interoperability of metadata across the PID ecosystem through proven models of community-led curation. COMET is built through collaboration, and is designed to be sustained through community curation, adding to existing efforts to democratize PID infrastructure. For more information visit [cometadata.org](https://www.cometadata.org/). 
 
 ## Current Projects
 
-COMET is piloting 8 enrichment and curation workflows. See the [Pilot Projects Overview Board](https://github.com/orgs/cometadata/projects/14) for a description of each project and its current status or visit the project repos: 
+COMET is piloting 7 metadtata enrichment workflows. Visit the project repos below to dive into the code and see the "Getting Involved" section below.  
 
 1. [arXiv Preprint Matching](https://github.com/cometadata/arxiv-preprint-matching)
 2. [Improve Generic Resource Type Classification](https://github.com/cometadata/improve-generic-resource-type-classifications)
-3. [Add or improve titles for records with no titles or generic titles](https://github.com/cometadata/add-or-improve-titles-for-records-with-no-or-generic-titles)
 4. [Reconcile PKP Beacon Journals with OpenAlex Affiliation Metadata](https://github.com/cometadata/reconcile-pkp-beacon-journals-w-openalex-affiliation-metadata)
 5. [Improve ETD PDF Affiliation Parsing](https://github.com/cometadata/improve-etd-pdf-affiliation-parsing)
 6. [Reconcile curation in CRIS systems](https://github.com/cometadata/reconcile-curation-in-cris-systems)
@@ -18,4 +18,4 @@ COMET is piloting 8 enrichment and curation workflows. See the [Pilot Projects O
 
 ## Getting Involved 
 
-Submit your ideas and feedback at [Cometadata Suggestions](https://github.com/cometadata/cometadata-suggestions). Alternatively, contact COMET's Project Lead, Dione Mentis, at [dione.mentis@datacite.org](mailto:dione.mentis@datacite.org)
+To get involved in the current projects, visit [Enrichment Projects](https://www.cometadata.org/enrichment-projects). To submit your ideas for new enrichment processess or to contribute curated metatdata to the COMET initiatve, visit [Contribute Enrichments](https://www.cometadata.org/contribute-enrichments). For any other questions, please contact COMET's Project Lead, Dione Mentis, at [dione.mentis@datacite.org](mailto:dione.mentis@datacite.org)
