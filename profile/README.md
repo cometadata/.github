@@ -2,7 +2,7 @@
 
 ## Overview
 
-Collaborative Metadata (COMET) is a community-led inititive. COMET's goal is to enhance the completeness, consistency, and interoperability of metadata across the PID ecosystem through proven models of community-led curation. COMET is built through collaboration, and is designed to be sustained through community curation, adding to existing efforts to democratize PID infrastructure. For more information visit [cometadata.org](https://www.cometadata.org/). 
+Collaborative Metadata (COMET) is a community-led inititive. COMET's goal is to enhance the completeness, consistency, and interoperability of metadata across the PID ecosystem through proven models of community-led enrichment and curation. COMET is built through collaboration, and is designed to be sustained through community curation, adding to existing efforts to democratize PID infrastructure. For more information visit [cometadata.org](https://www.cometadata.org/). 
 
 ## Current Projects
 
